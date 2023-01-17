@@ -24,7 +24,7 @@ export default function App({
             siteName: 'Oducoelho Call',
           }}
         />
-        <Component {...pageProps} />q
+        <Component {...pageProps} />
       </SessionProvider>
     </QueryClientProvider>
   )
