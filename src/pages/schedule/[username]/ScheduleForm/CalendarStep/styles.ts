@@ -1,7 +1,7 @@
 import { Box, styled, Text } from '@ignite-ui/react'
 
 export const Container = styled(Box, {
-  margin: '$6 auto 0',
+  margin: '$6 auto',
   padding: 0,
   display: 'grid',
   maxWidth: '100%',
@@ -13,6 +13,7 @@ export const Container = styled(Box, {
         gridTemplateColumns: '1fr 280px',
 
         '@media(max-width: 900px)': {
+          width: 540,
           gridTemplateColumns: '1fr',
         },
       },
@@ -34,6 +35,11 @@ export const TimePicker = styled('div', {
   bottom: 0,
   right: 0,
   width: 280,
+
+  '@media(max-width: 900px)': {
+    position: 'static',
+    width: '100%',
+  },
 })
 
 export const TimePickerHeader = styled(Text, {
@@ -51,7 +57,8 @@ export const TimePickerList = styled('div', {
   gap: '$2',
 
   '@media (max-width: 900px)': {
-    gridTemplateColumns: '2fr',
+    gridTemplateColumns: '1fr 1fr',
+    width: '100%',
   },
 })
 
@@ -64,6 +71,7 @@ export const TimePickerItem = styled('button', {
   borderRadius: '$sm',
   fontSize: '$sm',
   lineHeight: '$base',
+  height: 32,
 
   '&:last-child': {
     marginBottom: '$6',
