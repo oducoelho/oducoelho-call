@@ -1,12 +1,16 @@
 <h1 align="center">Oducoelho Call</h1>
 
 <h2>Home</h2>
-![](https://github.com/oducoelho/oducoelho-call/blob/main/images/home.png)
-<img src="images/home" />
-<h2>Carrinho</h2>
-<img src="screenshot2.PNG" />
-<h2>Pedido Confirmado</h2>
-<img src="screenshot3.PNG" />
+![](https://github.com/oducoelho/oducoelho-call/blob/main/images/home.JPG)
+<h2>Register</h2>
+![](https://github.com/oducoelho/oducoelho-call/blob/main/images/register.JPG)
+<h2>Authentication with google</h2>
+![](https://github.com/oducoelho/oducoelho-call/blob/main/images/auth-with-google.JPG)
+<h2>Time Intervals</h2>
+![](https://github.com/oducoelho/oducoelho-call/blob/main/images/time-intervals.JPG)
+<h2>Schedulings</h2>
+![](https://github.com/oducoelho/oducoelho-call/blob/main/images/agendamentos.JPG)
+
 
 ## :memo: Descrição
 * An application where people can schedule hours in their free time
