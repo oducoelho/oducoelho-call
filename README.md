@@ -9,14 +9,14 @@
 <h2>Time Intervals</h2>
 <img src="https://github.com/oducoelho/oducoelho-call/blob/main/images/time-intervals.JPG"/>
 <h2>Schedulings</h2>
-<img src="https://github.com/oducoelho/oducoelho-call/blob/main/images/agendamentos.JP"/>
+<img src="https://github.com/oducoelho/oducoelho-call/blob/main/images/agendamentos.JPG"/>
 
-## :memo: Descrição
+## :memo: Description
 * An application where people can schedule hours in their free time
-## :books: Funcionalidades
+## :books: Functions
 * In this application the user can log into the site using their google account and connecting their calendar to the application, allowing people to book appointments in their free time
 
-## :wrench: Tecnologias utilizadas
+## :wrench: Technologies used
 * TypeScript
 * ReactJs
 * NextJs
@@ -24,13 +24,10 @@
 * Stitches
 * React Router Dom
 * React Hook Form
-* validações com o zod
+* validations with zod
 * prisma
-     
-## :rocket: Rodando o projeto
-Realize o download dos arquivos e execute o comando "npm i" para baixar a node modules dos projetos
 
-## :handshake: Colaboradores
+## :handshake: Collaborators
 <table>
   <tr>
     <td align="center">
