@@ -1,7 +1,7 @@
 <h1 align="center">Oducoelho Call</h1>
 
 <h2>Home</h2>
-<img src="screenshot.PNG" />
+<img src="images/home" />
 <h2>Carrinho</h2>
 <img src="screenshot2.PNG" />
 <h2>Pedido Confirmado</h2>
