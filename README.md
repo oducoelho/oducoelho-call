@@ -9,7 +9,8 @@
 <h2>Time Intervals</h2>
 ![](https://github.com/oducoelho/oducoelho-call/blob/main/images/time-intervals.JPG)
 <h2>Schedulings</h2>
-![](https://github.com/oducoelho/oducoelho-call/blob/main/images/agendamentos.JPG)![](https://github.com/FilipePfluck/ignite-call/blob/main/images/landing.png)
+![](https://github.com/oducoelho/oducoelho-call/blob/main/images/agendamentos.JPG)
+![](https://github.com/FilipePfluck/ignite-call/blob/main/images/landing.png)
 
 
 ## :memo: Descrição
