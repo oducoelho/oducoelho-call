@@ -1,6 +1,7 @@
 <h1 align="center">Oducoelho Call</h1>
 
 <h2>Home</h2>
+![](https://github.com/oducoelho/oducoelho-call/blob/main/images/home.png)
 <img src="images/home" />
 <h2>Carrinho</h2>
 <img src="screenshot2.PNG" />
