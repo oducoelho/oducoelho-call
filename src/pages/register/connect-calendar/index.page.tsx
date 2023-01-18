@@ -36,7 +36,7 @@ export default function ConnectCalendar() {
         </Header>
         <ConnectBox>
           <ConnectItem>
-            <Text>Goggle Calendar</Text>
+            <Text>Google Calendar</Text>
             {isSignedIn ? (
               <Button>
                 Conectado
