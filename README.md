@@ -2,6 +2,7 @@
 
 <h2>Home</h2>
 ![](https://github.com/oducoelho/oducoelho-call/blob/main/images/home.JPG)
+<img src="https://github.com/oducoelho/oducoelho-call/blob/main/images/home.JPG"/>
 <h2>Register</h2>
 ![](https://github.com/oducoelho/oducoelho-call/blob/main/images/register.JPG)
 <h2>Authentication with google</h2>
