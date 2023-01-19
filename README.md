@@ -2,12 +2,6 @@
 
 <h2>Home</h2>
 <img src="https://github.com/oducoelho/oducoelho-call/blob/main/images/home.JPG"/>
-<h2>Register</h2>
-<img src="https://github.com/oducoelho/oducoelho-call/blob/main/images/register.JPG"/>
-<h2>Authentication with google</h2>
-<img src="https://github.com/oducoelho/oducoelho-call/blob/main/images/auth-with-google.JPG"/>
-<h2>Time Intervals</h2>
-<img src="https://github.com/oducoelho/oducoelho-call/blob/main/images/time-intervals.JPG"/>
 <h2>Schedulings</h2>
 <img src="https://github.com/oducoelho/oducoelho-call/blob/main/images/agendamentos.JPG"/>
 
